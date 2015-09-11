@@ -1,5 +1,6 @@
 # restfulandgocql
 
+createdata.goを実行し、スペースとテーブルを作成し、データをデータベースへ導入しておいてください。
 package main
 import (
 	"net/http"
